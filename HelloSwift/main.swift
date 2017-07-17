@@ -8,5 +8,6 @@
 
 import Foundation
 
+print("Yo!")
 print("Detta er fett!")
 
